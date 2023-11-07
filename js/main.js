@@ -19,10 +19,7 @@ function creaQuadrato(numero) {
 
         console.log("Cella cliccata", numero);
         
-        
         cella.classList.toggle("highlight");
-
-        
 
     });
 
